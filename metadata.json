@@ -1,0 +1,6 @@
+{
+  "name": "प्रधानमंत्री आवास योजना शहरी - महानगरपालिका छत्रपती संभाजीनगर",
+  "description": "महानगरपालिका छत्रपती संभाजीनगर अंतर्गत प्रधानमंत्री आवास योजना (शहरी) लाभार्थी यादी व्यवस्थापन",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
